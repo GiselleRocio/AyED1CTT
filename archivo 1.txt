@@ -1,4 +1,4 @@
 hola
 chau
-rama main
-rama rama2
+
+funcion1(); 
